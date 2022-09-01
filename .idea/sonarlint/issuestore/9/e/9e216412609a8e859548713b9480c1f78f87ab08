@@ -1,0 +1,41 @@
+
+l
+java:S1450v"VRemove the "btnBill" field and declare it as a local variable in the relevant methods.(ïÝÂ¼
+j
+java:S1450w"TRemove the "btnCF" field and declare it as a local variable in the relevant methods.(™†•æ
+s
+java:S1450x"XRemove the "btnCancel" field and declare it as a local variable in the relevant methods.(‹æÇ¸üÿÿÿÿ
+r
+java:S1450y"WRemove the "lblTitle" field and declare it as a local variable in the relevant methods.(Ì€´»úÿÿÿÿ
+E
+java:S1948"*Make "employee" transient or serializable.(ÅýªËùÿÿÿÿ
+E
+java:S1948"*Make "sellView" transient or serializable.(–ÑÛ´øÿÿÿÿ
+L
+java:S2696"6Make the enclosing method "static" or remove this set.(ºŸÜÃ
+L
+java:S2696"6Make the enclosing method "static" or remove this set.(Ï“Ñ¿
+Q
+java:S2696 "6Make the enclosing method "static" or remove this set.(áƒ»Òüÿÿÿÿ
+Q
+java:S2696!"6Make the enclosing method "static" or remove this set.(³úåêþÿÿÿÿ
+K
+java:S2696""6Make the enclosing method "static" or remove this set.(úÃÿ
+P
+java:S1161/":Add the "@Override" annotation above this method signature(†ŒË³
+P
+java:S1161A":Add the "@Override" annotation above this method signature(†ŒË³
+P
+java:S1161N":Add the "@Override" annotation above this method signature(†ŒË³
+@
+java:S1172b"*Remove this unused method parameter "evt".(—þñ´
+?
+java:S1172f"*Remove this unused method parameter "evt".(‡¿ö=
+E
+java:S1172j"*Remove this unused method parameter "evt".(ÙòúŸúÿÿÿÿ
+E
+java:S1172n"*Remove this unused method parameter "evt".(™·øÈùÿÿÿÿ
+]
+java:S1192)"GDefine a constant instead of duplicating this literal "Roboto" 3 times.(–Õ­ñ
+>
+java:S16043"(Make this anonymous inner class a lambda(ò¾Õ¤

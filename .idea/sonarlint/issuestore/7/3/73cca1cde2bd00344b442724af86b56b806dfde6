@@ -1,0 +1,61 @@
+
+m
+java:S3008Ç"VRename this field "search_icon" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şĞ­Ñ
+r
+java:S1450¿"VRemove the "btnShop" field and declare it as a local variable in the relevant methods.(©Ûç‚ıÿÿÿÿ
+w
+java:S1450À"[Remove the "jScrollPane1" field and declare it as a local variable in the relevant methods.(„·Ÿşÿÿÿÿ
+t
+java:S1450Á"XRemove the "lblAmount" field and declare it as a local variable in the relevant methods.(ÎØáÓüÿÿÿÿ
+p
+java:S1450Â"TRemove the "lblID" field and declare it as a local variable in the relevant methods.(ƒôıÂÿÿÿÿÿ
+s
+java:S1450Ã"\Remove the "lblTotalPrice" field and declare it as a local variable in the relevant methods.(× Ò·
+u
+java:S1450Ä"YRemove the "pnlContent" field and declare it as a local variable in the relevant methods.(§áøÿÿÿÿ
+u
+java:S1450Å"YRemove the "pnlSearch4" field and declare it as a local variable in the relevant methods.(ºÂšùúÿÿÿÿ
+n
+java:S1450Æ"WRemove the "searchID" field and declare it as a local variable in the relevant methods.(Ë Úù
+q
+java:S1450Ç"ZRemove the "search_icon" field and declare it as a local variable in the relevant methods.(şĞ­Ñ
+o
+java:S1450Ë"XRemove the "txtSearch" field and declare it as a local variable in the relevant methods.(ÕÀ¶Â
+B
+java:S1948"'Make "sView" transient or serializable.(ôêÁÀùÿÿÿÿ
+Q
+java:S2696("6Make the enclosing method "static" or remove this set.(³úåêşÿÿÿÿ
+L
+java:S2696)"6Make the enclosing method "static" or remove this set.(ğ§¶ñ
+L
+java:S2696*"6Make the enclosing method "static" or remove this set.(Ç•×©
+L
+java:S2696+"6Make the enclosing method "static" or remove this set.(ÌüÎ¤
+K
+java:S2696,"6Make the enclosing method "static" or remove this set.(¡½ãH
+L
+java:S2696-"6Make the enclosing method "static" or remove this set.(†ÅÑñ
+Q
+java:S2696."6Make the enclosing method "static" or remove this set.(…¦®ùÿÿÿÿ
+L
+java:S2696/"6Make the enclosing method "static" or remove this set.(³ÇåÚ
+Q
+java:S26960"6Make the enclosing method "static" or remove this set.(³È½íùÿÿÿÿ
+K
+java:S26961"6Make the enclosing method "static" or remove this set.(Í ü
+L
+java:S26962"6Make the enclosing method "static" or remove this set.(â¶¬Ì
+Q
+java:S26963"6Make the enclosing method "static" or remove this set.(ìˆíºıÿÿÿÿ
+Q
+java:S26964"6Make the enclosing method "static" or remove this set.(ÑÚùıÿÿÿÿ
+Q
+java:S26965"6Make the enclosing method "static" or remove this set.(Õ¡ìÂûÿÿÿÿ
+P
+java:S1161K":Add the "@Override" annotation above this method signature(®¸ù
+Q
+java:S1161¬":Add the "@Override" annotation above this method signature(†ŒË³
+A
+java:S1172³"*Remove this unused method parameter "evt".(ªÆ¦“
+d
+java:S1192>"NDefine a constant instead of duplicating this literal "Roboto Medium" 8 times.(ÿÒÿ¤

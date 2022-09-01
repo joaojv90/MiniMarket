@@ -1,0 +1,20 @@
+
+J
+java:S37401"/Provide the parametrized type for this generic.(ƒ˙ç–¸ˇˇˇˇ
+U
+java:S1118
+":Add a private constructor to hide the implicit public one.(à¬¡˜¸ˇˇˇˇ
+d
+java:S6201"NReplace this instanceof check and cast with 'instanceof JTextField jtextfield'(‰˜≠À
+A
+java:S1168"+Return an empty collection instead of null.(•πÔç
+b
+java:S6201"LReplace this instanceof check and cast with 'instanceof JComboBox jcombobox'(Üﬁ°Í
+g
+java:S6201"LReplace this instanceof check and cast with 'instanceof JTextArea jtextarea'(âá©ß˚ˇˇˇˇ
+d
+java:S6201'"NReplace this instanceof check and cast with 'instanceof JTextField jtextfield'(‰˜≠À
+g
+java:S6201*"LReplace this instanceof check and cast with 'instanceof JTextArea jtextarea'(âá©ß˚ˇˇˇˇ
+A
+java:S1168>"+Return an empty collection instead of null.(•πÔç
