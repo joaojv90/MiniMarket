@@ -6,7 +6,7 @@ import java.util.*;
 public class Category {
 
   private int idCategory;
-  private String name;
+  private String categoryName;
   private String description;
 
   public Category() {}
@@ -16,7 +16,7 @@ public class Category {
   }
 
   public void setName(String name) {
-    this.name = name;
+    this.categoryName = name;
   }
 
   public void setDescription(String description) {
@@ -24,7 +24,7 @@ public class Category {
   }
 
   public String getName() {
-    return name;
+    return categoryName;
   }
 
   public String getDescription() {
@@ -41,11 +41,11 @@ public class Category {
     setDescription((String) values.get(1));
   }
   public Object[] valuesForDB() {
-    return new Object[] {name, description};
+    return new Object[] {categoryName, description};
   }
 
   public Object[] valuesForUpdateDB() {
-    return new Object[] {name, description};
+    return new Object[] {categoryName, description};
   }
   
 }
