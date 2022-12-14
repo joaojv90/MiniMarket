@@ -14,7 +14,7 @@ public class DBConnection {
   static {
     String url = "jdbc:mysql://localhost:3306/qmet";
     String user = "root";
-    String password = "Sup3r";
+    String password = "PAU534297OK";
     try {
       Class.forName("com.mysql.cj.jdbc.Driver");
       con = DriverManager.getConnection(url, user, password);
